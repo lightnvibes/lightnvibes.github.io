@@ -202,7 +202,7 @@ a:focus, a:hover {
     transition: background 0.3s ease-in-out, padding-top 0.3s ease-in-out, padding-bottom 0.3s;
     letter-spacing: 1px;
     border-bottom: none;
-    background: transparent;
+    background: rgba(26, 26, 26, 0.7);
   }
   #mainNav.navbar-shrink {
     padding-top: 10px;
