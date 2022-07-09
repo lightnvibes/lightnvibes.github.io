@@ -91,6 +91,20 @@ a:focus, a:hover {
 }
 
 #team {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  padding-top: 130px;
+  padding-bottom: 130px;
+  }
+  
+  #photo {
+  background-color: #ffffff;
+  color: #1a1a1a;
+  padding-top: 130px;
+  padding-bottom: 130px;
+  }
+  
+  #partner {
   background-color: #ffffff;
   color: #1a1a1a;
   padding-top: 130px;
